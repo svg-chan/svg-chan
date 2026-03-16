@@ -1,6 +1,6 @@
 ## Helloooo!👋
 
-Building something... sometimes
+doing something... sometimes
 <p>https://svg-chan.com/</p>
 
 <p align="center">
