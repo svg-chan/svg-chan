@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Building something... sometimes
-https://svg-chan.com/
+<p>https://svg-chan.com/</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/svg-chan/svg-chan/refs/heads/main/svg-chan.gif">
