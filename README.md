@@ -1,11 +1,7 @@
-## Helloooo!👋
+## Hello!👋
 
 <!--doing something... sometimes
 <p>https://svg-chan.com/</p>-->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/svg-chan/svg-chan/refs/heads/main/svg-chan.gif">
-</p>
 
 <!--
 **svg-chan/svg-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
